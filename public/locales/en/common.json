@@ -1,0 +1,7 @@
+{
+  "add": "Add",
+  "filter": {
+    "active": "Active",
+    "deleted": "Deleted"
+  }
+}
